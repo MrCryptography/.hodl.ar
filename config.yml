@@ -42,9 +42,9 @@ blocks:
 #   icon: url
 #   url: https://www.TU-WEB.com
 
-# - title: Telegram
-#   icon: telegram
-#   url: https://t.me/mrcryptography
+  - title: Telegram
+    icon: telegram
+    url: https://t.me/mrcryptography
     
 # Guardá el archivo haciendo click en Commit Changes, abajo
 # Volvé a las instrucciones

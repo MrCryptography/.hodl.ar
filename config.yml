@@ -34,9 +34,9 @@ blocks:
 #   icon: linkedin # Este es el nombre del icono (si queres añadir una red social nueva, prestá atencion que es todo con minúscula)
 #   url: https://linkedin.com/in/TU-USUARIO # Link a donde redireccionará al hacer click
 
-# - title: Github
-#   icon: github
-#   url: https://github.com/TU-USUARIO
+  - title: Github
+    icon: github
+    url: https://github.com/MrCryptography
 
 # - title: Sitio Web
 #   icon: url
@@ -44,7 +44,7 @@ blocks:
 
 # - title: Telegram
 #   icon: telegram
-#   url: https://t.me/TU-USUARIO
+#   url: https://t.me/mrcryptography
     
 # Guardá el archivo haciendo click en Commit Changes, abajo
 # Volvé a las instrucciones

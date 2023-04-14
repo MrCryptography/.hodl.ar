@@ -15,7 +15,7 @@ theme:
 
 # Configuración Central
 main:
-  title: MrCryptography # Aca podes poner tu nombre o el de tu producto
+  title: MrCryptography # Aca podes poner tu nombre o el de tu product
 
 # Lista de bloques
 blocks:
